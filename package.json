@@ -9,6 +9,7 @@
   "author": "Samanth Reddy Chintakuntla",
   "license": "ISC",
   "dependencies": {
+    "brew": "0.0.8",
     "lodash": "^4.17.4",
     "yargs": "^10.0.3"
   },
