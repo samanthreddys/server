@@ -13,7 +13,7 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (error, db) => {
     db.collection('users')
         .insertOne({
 
-            name: 'samanth',
+            name: 'hello',
             location: 'UnitedStates',
             age: 32,
             completed: true
