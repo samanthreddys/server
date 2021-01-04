@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "lodash": "^4.17.4",
     "request": "^2.83.0",
